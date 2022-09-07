@@ -1,0 +1,10 @@
+.names{
+    display:inline-block;
+margin-left: 70px;
+} #month{
+    width: 120px;
+} #day{
+    width: 120px
+} #year{
+    width: 120px
+}

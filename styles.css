@@ -1,0 +1,72 @@
+#fst{
+    text-align: center;
+font-size: 40px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding-bottom: 40px;
+margin-bottom: -50px;
+} #fst:hover{
+color:red;
+}
+ body{
+    color: white;
+    background-image: url(imagefile.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+} #fstp{ text-align: center;
+    font-size: x-small;
+   word-spacing: 10px;
+   color: red;
+}  #sndp {
+    letter-spacing: 30px;
+    text-align: center; 
+    color: red;
+} #sndp:hover{
+    color:aliceblue;
+}
+ #sndh{
+    font-size: 60px;
+    margin-top: auto;
+    padding-left: 5%;
+} .div{
+    width: 35px;
+    height:5px;
+    background-color: aliceblue;
+    margin:6px
+} .div:hover{
+background-color: blue;
+} #navbar{
+    text-align: right;
+} .parent{
+    text-align: center;
+    background-color: red;
+    opacity:0.7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+} .redtext{
+    display: inline-block;
+
+}   h3{
+    font-size:15px;
+    margin-bottom: -10px;
+    padding-top: 50px;
+        }
+        .redtextp{
+            font-size: small;
+            margin-right: 50px;
+        } #box{
+text-align: center;
+border-style: solid;
+width: 150px;
+height: 30px;
+color:white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: medium;
+padding-top: 10px;
+background-color:red;
+border-color: red;
+margin-bottom: 30px;
+        } #box:hover{
+color:red;
+background-color: aliceblue;
+border-color: aliceblue;
+        }
